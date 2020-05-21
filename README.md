@@ -1,1 +1,3 @@
 # ZYCXcodeScaffold
+
+run ./copy.sh
